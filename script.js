@@ -24,15 +24,3 @@ $(function () {
         }
     );
 });
-/*$(function () {
-    $(".rainbow-hover").hover(
-        function () {
-            // Lors du survol, ajouter la classe d'animation
-            $('.sp').addClass('animate-hover');
-        },
-        function () {
-            // Lorsque le survol est terminé, retirer la classe d'animation
-            $('.sp').removeClass('animate-hover');
-        }
-    );
-});*/
